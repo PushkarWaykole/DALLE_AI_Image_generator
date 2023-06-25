@@ -4,12 +4,13 @@
 
 # Home Page
 
-![image](https://github.com/PushkarWaykole/DALLE_AI_Image_generator/assets/80080666/9a17b059-f70e-40d2-97a7-b147a819dad8)
-![image](https://github.com/PushkarWaykole/DALLE_AI_Image_generator/assets/80080666/7b6e84a7-4b8b-4c55-83a5-12e028a16871)
+![h2](https://github.com/PushkarWaykole/DALLE_AI_Image_generator/assets/80080666/8d19f606-b174-4211-91b9-9f6fcf1b6296)
+
+![h1](https://github.com/PushkarWaykole/DALLE_AI_Image_generator/assets/80080666/caae0fb0-d23f-4185-98d7-cfe4080f01b5)
 
 
 # Create Post page
+![c1](https://github.com/PushkarWaykole/DALLE_AI_Image_generator/assets/80080666/91da979e-ce98-4dea-a2f9-4e38d249a1b9)
 
-![image](https://github.com/PushkarWaykole/DALLE_AI_Image_generator/assets/80080666/a9d106af-c10a-49e2-830b-b926ad69ab75)
 
 Unfortunately, the application cannot be hosted live as Dall-E stopped giving new users free credits, so API requests cannot be processed.
